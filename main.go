@@ -1,7 +1,6 @@
 package main
 
-import ()
-
 func main() {
-	readFile()
+	testFile := "data/data.txt"
+	readFile(testFile)
 }
